@@ -1,6 +1,14 @@
-{
-  "imageUrl": "https://cdn.jsdelivr.net/gh/16steyy/16Launcher-News@main/banner-1.0.4.jpg",
-  "title": "Обновление лаунчера 1.0.4",
-  "subtitle": "Новый дизайн, улучшенная производительность и поддержка модпаков.",
-  "link": "https://github.com/16steyy/16Launcher-News"
-}
+[
+  {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/16steyy/16Launcher-News@main/banner-1.0.4.jpg",
+    "title": "Обновление лаунчера 1.0.4",
+    "subtitle": "Новый дизайн, улучшенная производительность и поддержка модпаков.",
+    "link": "https://github.com/16steyy/16Launcher-News"
+  },
+  {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/16steyy/16Launcher-News@main/photo_2024-11-30_22-41-53.jpg",
+    "title": "Весеннее событие",
+    "subtitle": "Спец. ивент и скидки на модпаки.",
+    "link": "https://example.com/spring-event"
+  }
+]
