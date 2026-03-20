@@ -1,7 +1,7 @@
 [
   {
-    "color-msg": "",
-    "icon-msg": "",
-    "text-msg": "",
+    "color-msg": "red",
+    "icon-msg": "info.png",
+    "text-msg": "Вышло обновление 2.0.1!",
   }
 ]
