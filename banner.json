@@ -6,6 +6,21 @@
     "link": "https://16luncher.ru/news"
   },
   {
-
+    "imageUrl": "Boosty.png",
+    "title": "Поддержите нас!",
+    "subtitle": "Подписка на Boosty.",
+    "link": "https://boosty.to/16steyy"
+  },
+  {
+    "imageUrl": "Telegram.png",
+    "title": "Следите за новостями!",
+    "subtitle": "Подписка на Telegram.",
+    "link": "https://t.me/of16launcher"
+  },
+  {
+    "imageUrl": "Discord.png",
+    "title": "Discord комьюнити!",
+    "subtitle": "Вступите в Discord.",
+    "link": "https://discord.gg/55Y95EfsHM"
   }
 ]
