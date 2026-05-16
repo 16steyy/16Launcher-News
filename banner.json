@@ -22,5 +22,11 @@
     "title": "Discord комьюнити!",
     "subtitle": "Вступите в Discord.",
     "link": "https://discord.gg/55Y95EfsHM"
+  },
+    {
+    "imageUrl": "giveaway.png",
+    "title": "Розыгрыш лицензии в Telegram!",
+    "subtitle": "Бесплатная лицензия для пользователей лаунчера.",
+    "link": "https://t.me/of16launcher"
   }
 ]
