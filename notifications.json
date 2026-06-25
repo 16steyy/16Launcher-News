@@ -1,7 +1,7 @@
 [
   {
-    "color-msg": "",
-    "icon-msg": "",
-    "text-msg": "",
+    "color-msg": "green",
+    "icon-msg": "warn.png",
+    "text-msg": "Вышло обновление 2.1.5! С исправлением авто-обновлений! Скачиваем тут: 16-launcher.ru",
   }
 ]
